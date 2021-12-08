@@ -3,7 +3,7 @@
         "author": "Rhy",
         "name": "yotsuba",
         "version": "1.0.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/MiscThemes\/main\/yotsuba.json",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/MiscThemes\/main\/yotsuba\/yotsuba.json",
         "license": "MIT"
     },
     "background": {
