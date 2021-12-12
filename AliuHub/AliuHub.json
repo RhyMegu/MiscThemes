@@ -2,8 +2,8 @@
     "manifest": {
         "name": "AliuHub",
         "author": "Rhy#1752",
-        "version": "1.0.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/MiscThemes\/AliuHub\/main\/AliuHub.json",
+        "version": "1.0.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/MiscThemes\/main\/AliuHub\/AliuHub.json",
         "license": "MIT"
     },
     "background": {},
